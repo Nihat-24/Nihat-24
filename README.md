@@ -11,5 +11,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=Nihat-24&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Nihat-24&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nihat-24&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Snake](https://github.com/Nihat-24/Nihat-24/blob/output/github-contribution-grid-snake.svg)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
