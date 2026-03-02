@@ -2,7 +2,7 @@
   <img height="380" src="https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif" />
 </div>
 
-<h1 align="center">Hi 👋, I'm Nihat</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Nihat</h1>
 <h3 align="center">Frontend Developer | JavaScript & React Enthusiast</h3>
 
 <br/>
@@ -58,6 +58,11 @@
 
 <br/>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AnishDebnath/AnishDebnath/output/pacman-contribution-graph-dark.svg" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" 
+    srcset="https://github.com/Nihat-24/Nihat-24/raw/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" 
+    srcset="https://github.com/Nihat-24/Nihat-24/raw/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" 
+    src="https://github.com/Nihat-24/Nihat-24/raw/output/pacman-contribution-graph.svg">
+</picture>
