@@ -1,3 +1,6 @@
+<div align="left">
+  <img height="426" src="https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif"  />
+</div>
 # 💫 About Me:
 👋 Hi, I'm Nihat  <br><br>💻 Frontend-focused developer interested in JavaScript and modern web technologies.  <br>🚀 I enjoy building clean, understandable, and user-friendly applications.  <br>📚 Currently learning and improving my skills in JavaScript, async programming, and APIs.  <br>🎯 Goal: Become a strong full-stack developer.
 
