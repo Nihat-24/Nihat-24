@@ -56,8 +56,6 @@
   <img src="https://nirzak-streak-stats.vercel.app/?user=Nihat-24&theme=dark&hide_border=true" />
 </div>
 
-<br/>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" 
     srcset="https://github.com/Nihat-24/Nihat-24/raw/output/pacman-contribution-graph-dark.svg">
