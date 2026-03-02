@@ -56,6 +56,14 @@
   <img src="https://nirzak-streak-stats.vercel.app/?user=Nihat-24&theme=dark&hide_border=true" />
 </div>
 
+<br/>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Keep+building+%F0%9F%9A%80;Keep+learning+%F0%9F%92%AA;See+you+in+the+next+commit+%F0%9F%91%8B" />
+</p>
+
+
+##
 <picture>
   <source media="(prefers-color-scheme: dark)" 
     srcset="https://github.com/Nihat-24/Nihat-24/raw/output/pacman-contribution-graph-dark.svg">
