@@ -7,7 +7,8 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Frontend+Developer;React+%26+TypeScript+Focused;Building+Clean+UI;Future+Full-Stack+Developer" />
 </p>
-## 💫 About Me
+
+ <h2 align="">💫 About Me</h2>
 
 - 💻 Frontend-focused developer interested in modern web technologies  
 - 🚀 I enjoy building clean, understandable and user-friendly applications  
