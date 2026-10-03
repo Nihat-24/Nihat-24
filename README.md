@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
   <img height="380" src="https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif" />
 </div>
 
@@ -52,18 +52,7 @@
 <br/>
 
 ## 📊 GitHub Stats
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Nihat-24/Nihat-24/main/profile-summary-card-output/github_dark/0-profile-details.svg" width="49%" />
-  <img src="https://raw.githubusercontent.com/Nihat-24/Nihat-24/main/profile-summary-card-output/github_dark/3-stats.svg" width="49%" />
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Nihat-24/Nihat-24/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" width="49%" />
-  <img src="https://raw.githubusercontent.com/Nihat-24/Nihat-24/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" width="49%" />
-</div>
-
+<img src="https://streak-stats.demolab.com/?user=Nihat-24&theme=dark&hide_border=true" />
 
 ##
 <picture>
